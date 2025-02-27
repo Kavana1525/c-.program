@@ -3,8 +3,8 @@ void main()
 {
 int i,n,sum;
 printf("enter the num");
-scanf("%d",&i,&n,%sum);
-
-printf("%d + %d =%d",&i,&n,&sum);
+scanf("%d %d",&i,&n,);
+sum=i+n;
+printf("sum =%d\n",sum);
 return 0;
 }
