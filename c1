@@ -8,3 +8,4 @@ sum=i+n;
 printf("sum =%d\n",sum);
 return 0;
 }
+This is addition C program 
